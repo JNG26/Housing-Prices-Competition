@@ -1,10 +1,12 @@
 # Kaggle Housing Prices Competition
 
-This repository contains code and resources for the Kaggle House Prices: Advanced Regression Techniques competition.
+This repository contains code that I developed for the 'Kaggle House Prices: Advanced Regression Techniques' competition.
 
 ## Competition Description
 
-The goal of this competition is to predict the final price of each home in Ames, Iowa based on various features provided in the dataset. The evaluation metric for this competition is the Root Mean Squared Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
+The goal of this competition is to predict the final price of each home in Ames, Iowa based on various features provided in the dataset. 
+
+The evaluation metric for this competition is the Root Mean Squared Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
 
 For more details about the competition, you can visit the [competition page on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
