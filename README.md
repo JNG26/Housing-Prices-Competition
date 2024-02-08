@@ -1,4 +1,4 @@
-# Kaggle House Prices Competition
+# Kaggle Housing Prices Competition
 
 This repository contains code and resources for the Kaggle House Prices: Advanced Regression Techniques competition.
 
