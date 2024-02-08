@@ -24,16 +24,14 @@ So far, the lowest RMSE I have been able to obtain using Gradient Boosting Regre
 
 - notebooks/ # Jupyter notebooks for data analysis and model development.
 
--- data_exploration.ipynb # Notebook for data exploration.
-  
--- model_training.ipynb # Notebook for model training.
+-- main.ipynb # Notebook that contains all the code.
 
 - models/ # Directory for storing trained models.
 
 -- model.pkl # Trained model file.
 
-- submissions/ # Directory for storing Kaggle submission files.
+- submissions/ # Directory for storing Kaggle smubmission files.
 
--- submission.csv # Submission file for Kaggle.
+-- submission_gb.csv # Submission file for Kaggle.
 
 - README.md # Readme file providing information about the repository.
