@@ -1,5 +1,3 @@
-![ ]([image_url](https://miro.medium.com/v2/resize:fit:1400/1*2djb7kXk2I4SNLBHogl87Q.jpeg))
-
 # Kaggle Housing Prices Competition
 
 This repository contains code that I developed for the 'Kaggle House Prices: Advanced Regression Techniques' competition.
@@ -18,22 +16,22 @@ So far, the lowest RMSE I have been able to obtain using Gradient Boosting Regre
 
 ## Repository Structure
 
-- data/ # Directory for storing dataset files.
+- **data/ # Directory for storing dataset files.**
 
--- train.csv # Training dataset.
+*train.csv # Training dataset.*
 
--- test.csv # Testing dataset.
+*test.csv # Testing dataset.*
 
-- notebooks/ # Jupyter notebooks for data analysis and model development.
+- **notebooks/ # Jupyter notebooks for data analysis and model development.**
 
--- main.ipynb # Notebook that contains all the code.
+*main.ipynb # Notebook that contains all the code.*
 
-- models/ # Directory for storing trained models.
+- **models/ # Directory for storing trained models.**
 
--- model.pkl # Trained model file.
+*model.pkl # Trained model file.*
 
-- submissions/ # Directory for storing Kaggle smubmission files.
+- **submissions/ # Directory for storing Kaggle smubmission files.**
 
--- submission_gb.csv # Submission file for Kaggle.
+*submission_gb.csv # Submission file for Kaggle.*
 
-- README.md # Readme file providing information about the repository.
+- **README.md # Readme file providing information about the repository.**
