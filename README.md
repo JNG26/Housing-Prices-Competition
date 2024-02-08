@@ -1,3 +1,5 @@
+![ ]([image_url](https://miro.medium.com/v2/resize:fit:1400/1*2djb7kXk2I4SNLBHogl87Q.jpeg))
+
 # Kaggle Housing Prices Competition
 
 This repository contains code that I developed for the 'Kaggle House Prices: Advanced Regression Techniques' competition.
